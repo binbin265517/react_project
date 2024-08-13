@@ -1,9 +1,10 @@
 import './App.css';
+import ClassCom from './basic/ClassCom';
 
 function App() {
   return (
     <div className="App">
-      类组件的用法
+      <ClassCom></ClassCom>
     </div>
   );
 }
